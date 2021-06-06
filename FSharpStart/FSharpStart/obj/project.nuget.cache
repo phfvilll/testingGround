@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZfJmTYLazG+O3DOSVDqV7+R11w73PheIoLYd3KfiQM7SJYnHjXl6xWthA+PCorAOuakfZiiFoPgNO3rEV+fbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lif\\Dropbox\\421\\C4L\\testingGround\\FSharpStart\\FSharpStart\\FSharpStart.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lif\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
